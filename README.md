@@ -1,4 +1,4 @@
-# 🚀 VyaparAI
+ # 🚀 VentureIQ
 
 AI-Powered Business Recommendation & Market Analysis Platform
 
